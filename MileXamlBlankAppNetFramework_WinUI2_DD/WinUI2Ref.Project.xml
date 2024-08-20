@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project>
+	<ItemGroup>
+		<Reference Include="Microsoft.UI.Xaml" HintPath="$(PkgMicrosoft_UI_Xaml)\lib\uap10.0\Microsoft.UI.Xaml.winmd" IsWinMDFile="true" />
+	</ItemGroup>
+</Project>

@@ -18,7 +18,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.UI.Xaml" Version="2.4.0" />
     <PackageReference Include="Microsoft.VCRTForwarders.140" Version="1.1.0" />
-    <PackageReference Include="Mile.Xaml" Version="2.2.890" />
+    <PackageReference Include="Mile.Xaml" Version="2.3.1064" />
 	  <!-- Add Microsoft.UI.Xaml WinRT Reference-->
 	  <Reference Include="Microsoft.UI.Xaml" HintPath="$(PkgMicrosoft_UI_Xaml)\lib\uap10.0\Microsoft.UI.Xaml.winmd" IsWinMDFile="true" />
   </ItemGroup>
